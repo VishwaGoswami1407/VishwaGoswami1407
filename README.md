@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **goswamivishva2004@gmail.com**
 
-- ⚡ Fun fact **Coding Never Lie😀**
+- ⚡ Fun fact **Code Never Lies😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
