@@ -8,16 +8,8 @@
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://wallpapercave.com/wp/wp7183660.jpg"  />
-</div>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VishwaGoswami1407 .VishwaGoswami1407 &left_color=darkslategrey&right_color=blue"  />
+  <img src="https://profile-counter.glitch.me/VishwaGoswami1407 /count.svg?"  />
 </div>
 
 ###
@@ -27,6 +19,14 @@
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img height="200" src="https://wallpapercave.com/wp/wp7183660.jpg"  />
+</div>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥   My Stats</h2>
 
 ###
 
