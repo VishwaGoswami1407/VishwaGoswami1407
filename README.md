@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VishwaGoswami1407 .VishwaGoswami1407 &left_color=darkslategrey&right_color=blue"  />
 </div>
