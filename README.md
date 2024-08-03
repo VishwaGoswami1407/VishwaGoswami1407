@@ -19,11 +19,12 @@
 </div>
 
 <p align="left">
-  🌱 I’m currently learning Bootstrap, PHP, and JavaScript.<br><br>
-  👨‍💻 All of my projects are available on <a href="https://www.linkedin.com/in/vishwa-goswami-763686225/" target="_blank">LinkedIn</a>.<br><br>
-  📫 How to reach me: <a href="mailto:goswamivishva2004@gmail.com">goswamivishva2004@gmail.com</a><br><br>
-  ⚡ Fun fact: Code Never Lies 😀
+  🌱 Currently diving deeper into React.js, JavaScript, and expanding my knowledge in Bootstrap and PHP.<br><br>
+  👨‍💻 Explore my projects and professional updates on <a href="https://www.linkedin.com/in/vishwa-goswami-763686225/" target="_blank">LinkedIn</a>.<br><br>
+  📫 Feel free to reach me at: <a href="mailto:goswamivishva2004@gmail.com">goswamivishva2004@gmail.com</a><br><br>
+  ⚡ Fun fact: Code Never Lies! 😀
 </p>
+
 
 <h2 align="left">🛠 Languages and Tools</h2>
 
