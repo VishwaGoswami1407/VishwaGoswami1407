@@ -6,8 +6,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VishwaGoswami1407 .VishwaGoswami1407 &left_color=darkslategrey&right_color=blue"  />
+  <img src="https://profile-counter.glitch.me/VishwaGoswami1407 /count.svg?"  />
 </div>
 
 ###
@@ -59,8 +61,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/VishwaGoswami1407 /VishwaGoswami1407 /output/snake.svg" alt="Snake animation" />
 
