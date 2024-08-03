@@ -8,8 +8,16 @@
 
 <br clear="both">
 
+<div align="right">
+  <img height="200" src="https://wallpapercave.com/wp/wp7183660.jpg"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/VishwaGoswami1407 /count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VishwaGoswami1407 .VishwaGoswami1407 &left_color=darkslategrey&right_color=blue"  />
 </div>
 
 ###
@@ -19,14 +27,6 @@
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://wallpapercave.com/wp/wp7183660.jpg"  />
-</div>
 
 ###
 
@@ -59,10 +59,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/VishwaGoswami1407 /VishwaGoswami1407 /output/snake.svg" alt="Snake animation" />
 
 ###
 
